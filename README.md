@@ -1,3 +1,10 @@
+## Quick start
+
+1. clone this repo to your local repository
+2. run `npm install`
+3. change id in `index.js`
+4. run `npm start`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
